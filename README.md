@@ -3,7 +3,7 @@
 I'm Amirali Ghorbani, a student specializing in Networking and Software at Sampad Amir Kabir High School, a school for gifted students in Iran. With 4 years of broad coding experience and 2 years of focused work in web development. My goal in programming is to bring new and innovative ideas to life.
 <br>
 <br>
-🔭 I study in AmirKabir Sampad [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/school/amirkabir-sampad/posts/?feedView=all)
+🔭 I study in AmirKabir Sampa
 <br>
 🤝 I'm open to collaborating on interesting projects as a web developer<br>
 <h2 align="center">DATA:</h2>
