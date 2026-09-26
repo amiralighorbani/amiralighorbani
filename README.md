@@ -54,19 +54,4 @@ I'm Amirali Ghorbani, a student specializing in Networking and Software at Sampa
 
 ###
 
-<br clear="both">
-
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/amili-code/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.tenor.com/i3lImBg2UEQAAAAM/scaler-create-impact.gif"  />
-</div>
-
 ###
